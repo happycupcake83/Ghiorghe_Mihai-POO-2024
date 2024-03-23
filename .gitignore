@@ -1,3 +1,6 @@
-*.exe
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
 
-.vs
+/.vs
+/CreditOrganizer/.vs/CreditOrganizer
